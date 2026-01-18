@@ -368,5 +368,14 @@
       "Reset the repository using \"gitmastery progress reset\" and start again"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1768708838.665208,
+    "completed_at": 1768708841.358843,
+    "comments": [
+      "Branch 'feature-delete' still exists."
+    ],
+    "status": "Incomplete"
   }
 ]
